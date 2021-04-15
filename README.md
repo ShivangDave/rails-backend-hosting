@@ -101,3 +101,13 @@
   <p align="center">
     <img src="https://i.imgur.com/uWRyvLa.png" height="400px" />
   </p>
+
+
+- Additional Resources:
+  - [CORS configuration](https://github.com/cyu/rack-cors)
+  - [ActiveRecord Database Configuration](https://guides.rubyonrails.org/active_record_multiple_databases.html)
+  - [Heroku Database Service](https://www.heroku.com/postgres)
+  - [Heroku Free Dyno Info](https://www.heroku.com/pricing)
+  - [TravisCI](https://travis-ci.org)
+  - [Ruby on Rails Testing](https://guides.rubyonrails.org/testing.html)
+  - [Rspec Tests](https://thoughtbot.com/blog/how-we-test-rails-applications)
